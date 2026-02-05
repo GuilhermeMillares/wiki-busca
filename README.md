@@ -47,7 +47,7 @@ Este repositório utiliza **GitHub Actions** para gerar e publicar automaticamen
 
 - O site estará disponível em:
 
-    https://GuilhermeMillares.github.io/documentacao/
+    https://guilhermemillares.github.io/wiki-busca/
 
 ---
 
