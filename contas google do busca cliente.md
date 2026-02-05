@@ -1,0 +1,1 @@
+As contas do Google são necessárias para que a gente consiga a partir delas fazer os procedimentos necessários na Google e inserir no código.
