@@ -7,7 +7,7 @@ Wiki/documentação criada com **Quartz 4** e **Obsidian**, publicada automatica
 ## Links importantes
 
 - [Como contribuir](CONTRIBUTING.md) – guia completo para colaboradores via Pull Request  
-- [Configurações e uso local](configs.md) – estrutura do repositório, build, deploy e fluxo do site
+- [Configurações e uso local](CONFIGS.md) – estrutura do repositório, build, deploy e fluxo do site
 
 ---
 
