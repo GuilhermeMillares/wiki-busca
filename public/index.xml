@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+    <channel>
+      <title>Quartz 4</title>
+      <link>https://quartz.jzhao.xyz</link>
+      <description>Last 10 notes on Quartz 4</description>
+      <generator>Quartz -- quartz.jzhao.xyz</generator>
+      <item>
+    <title>Acessando o Guacamole</title>
+    <link>https://quartz.jzhao.xyz/Acessando-o-Guacamole</link>
+    <guid>https://quartz.jzhao.xyz/Acessando-o-Guacamole</guid>
+    <description><![CDATA[ Acesse o Guacamole e pesquise pelo domínio do cliente, após achar acesse o servidor e rode os comandos abaixo: cd web cd dominiodocliente.com.br (você pode digitar cd e apertar tab tab, que ele irá completar) cd public_html ls (se tiver apenas os arquivos index.html e robots.txt rode o comando abaix... ]]></description>
+    <pubDate>Thu, 05 Feb 2026 14:35:12 GMT</pubDate>
+  </item><item>
+    <title>Apontamento de DNS na Cloudflare</title>
+    <link>https://quartz.jzhao.xyz/Apontamento-de-DNS-na-Cloudflare</link>
+    <guid>https://quartz.jzhao.xyz/Apontamento-de-DNS-na-Cloudflare</guid>
+    <description><![CDATA[ Acesse a CloudFlare entre na conta do Growth e clique em Integrar um domínio. ]]></description>
+    <pubDate>Thu, 05 Feb 2026 14:35:12 GMT</pubDate>
+  </item><item>
+    <title>BitBucket</title>
+    <link>https://quartz.jzhao.xyz/BitBucket</link>
+    <guid>https://quartz.jzhao.xyz/BitBucket</guid>
+    <description><![CDATA[ O Bitbucket é uma plataforma de hospedagem de código-fonte usada principalmente para controle de versão de projetos de software. ]]></description>
+    <pubDate>Thu, 05 Feb 2026 14:35:12 GMT</pubDate>
+  </item><item>
+    <title>Colocando o sitemap.xml</title>
+    <link>https://quartz.jzhao.xyz/Colocando-o-sitemap.xml</link>
+    <guid>https://quartz.jzhao.xyz/Colocando-o-sitemap.xml</guid>
+    <description><![CDATA[ Acesse novamente o Search console e procure pelo domínio que você cadastrou, após achar clique nele e clique em “Ir para a propriedade” na janela que aparecer. ]]></description>
+    <pubDate>Thu, 05 Feb 2026 14:35:12 GMT</pubDate>
+  </item><item>
+    <title>Contas Google do Busca Cliente</title>
+    <link>https://quartz.jzhao.xyz/Contas-Google-do-Busca-Cliente</link>
+    <guid>https://quartz.jzhao.xyz/Contas-Google-do-Busca-Cliente</guid>
+    <description><![CDATA[ As contas do Google são necessárias para que a gente consiga a partir delas fazer os procedimentos necessários na Google e inserir no código. ]]></description>
+    <pubDate>Thu, 05 Feb 2026 14:35:12 GMT</pubDate>
+  </item><item>
+    <title>Criando o PR no BitBucket</title>
+    <link>https://quartz.jzhao.xyz/Criando-o-PR-no-BitBucket</link>
+    <guid>https://quartz.jzhao.xyz/Criando-o-PR-no-BitBucket</guid>
+    <description><![CDATA[ É necessário que envie um e-mail para o suporte@m3solutions.com.br solicitando a criação do Vhost e autorização para os usuários do Suporte/Deploy, solicite o modelo de e-mail para o Everton ou para o Hiago. ]]></description>
+    <pubDate>Thu, 05 Feb 2026 14:35:12 GMT</pubDate>
+  </item><item>
+    <title>Editando o código</title>
+    <link>https://quartz.jzhao.xyz/Editando-o-c%C3%B3digo</link>
+    <guid>https://quartz.jzhao.xyz/Editando-o-c%C3%B3digo</guid>
+    <description><![CDATA[ Após realizar o PR será necessário que altere o arquivo geral.php você pode escolher em alterar diretamente no BitBucket ou rodar o comando git clone https://{dominiodocliente.com.br} esse comando você consegue pegar no próprio repositório clicando em Clone mudando de HTTPS para SSH. ]]></description>
+    <pubDate>Thu, 05 Feb 2026 14:35:12 GMT</pubDate>
+  </item><item>
+    <title>Exportando e Importando o Banco de dados</title>
+    <link>https://quartz.jzhao.xyz/Exportando-e-Importando-o-Banco-de-dados</link>
+    <guid>https://quartz.jzhao.xyz/Exportando-e-Importando-o-Banco-de-dados</guid>
+    <description><![CDATA[ Após verificar a propagação do DNS acesse: dominiodocliente.com.br/phpmyadmin ao acessar a tela insira os dados que foram colocados nas variáveis ‘USER’ e ‘PASS’ que estão no código. ]]></description>
+    <pubDate>Thu, 05 Feb 2026 14:35:12 GMT</pubDate>
+  </item><item>
+    <title>Finalizando o deploy</title>
+    <link>https://quartz.jzhao.xyz/Finalizando-o-deploy</link>
+    <guid>https://quartz.jzhao.xyz/Finalizando-o-deploy</guid>
+    <description><![CDATA[ Após realizar o sitemap e o site estar no ar e funcionando, vá até o salesforce, clique em realcionado a, clique na razão social do cliente e em chatter. ]]></description>
+    <pubDate>Thu, 05 Feb 2026 14:35:12 GMT</pubDate>
+  </item><item>
+    <title>Fluxo de Deploy</title>
+    <link>https://quartz.jzhao.xyz/Fluxo-de-Deploy</link>
+    <guid>https://quartz.jzhao.xyz/Fluxo-de-Deploy</guid>
+    <description><![CDATA[ Garanta que possua todos os acessos antes de iniciar o processo de deploy, será necessário ter acesso as plataformas: Guacamole BitBucket Painel do Busca Cliente Salesforce Contas Google do Busca Cliente Após conseguir todos os acessos necessários vamos começar pelo e-mail. ]]></description>
+    <pubDate>Thu, 05 Feb 2026 14:35:12 GMT</pubDate>
+  </item>
+    </channel>
+  </rss>
