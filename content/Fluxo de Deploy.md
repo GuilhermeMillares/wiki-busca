@@ -13,19 +13,19 @@ Garanta que possua todos os acessos antes de iniciar o processo de deploy, será
 
 Após conseguir todos os acessos necessários vamos começar pelo e-mail.
 
-[[Criando o PR no BitBucket]]
+**Passo 1:** [[Criando o PR no BitBucket]]
 
-[[Editando o código]]
+**Passo 2:** [[Editando o código]]
 
-[[Acessando o Guacamole]]
+**Passo 3:**[[Acessando o Guacamole]]
 
-[[Apontamento de DNS na Cloudflare]]
+**Passo 4:**[[Apontamento de DNS na Cloudflare]]
 
-[[Exportando e Importando o Banco de dados]]
+**Passo 5:**[[Exportando e Importando o Banco de dados]]
 
-[[Colocando o sitemap.xml]]
+**Passo 6:** [[Colocando o sitemap.xml]]
 
-[[Finalizando o deploy]]
+**Passo 7:** [[Finalizando o deploy]]
 
 
 
