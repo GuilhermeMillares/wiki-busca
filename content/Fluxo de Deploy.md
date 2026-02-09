@@ -17,11 +17,11 @@ Após conseguir todos os acessos necessários vamos começar pelo e-mail.
 
 **Passo 2:** [[Editando o código]]
 
-**Passo 3:** [[Acessando o Guacamole]]
+**Passo 3:**[[Acessando o Guacamole]]
 
-**Passo 4:** [[Apontamento de DNS na Cloudflare]]
+**Passo 4:**[[Apontamento de DNS na Cloudflare]]
 
-**Passo 5:** [[Exportando e Importando o Banco de dados]]
+**Passo 5:**[[Exportando e Importando o Banco de dados]]
 
 **Passo 6:** [[Colocando o sitemap.xml]]
 
